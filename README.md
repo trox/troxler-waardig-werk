@@ -39,7 +39,7 @@ Deze publicatie is de lectorale rede van Dr. Peter Troxler, uitgesproken bij zij
 
 ## Publicatiegegevens
 
-**Uitgever:** Hogeschool Rotterdam Uitgeverij
+**Uitgever:** Hogeschool Rotterdam
 **ISBN:** 9789082857559
 **NUR:** 800 – Bedrijfskunde algemeen
 **Licentie:** Creative Commons Naamsvermelding 4.0 Internationaal (CC BY 4.0)
